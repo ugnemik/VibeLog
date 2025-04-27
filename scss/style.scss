@@ -106,6 +106,7 @@ section {
     gap: 0.3em;
     background-color: transparent;
     border: none;
+    color: $text-color;
 
     &:hover {
       transform: scale(1.2);
